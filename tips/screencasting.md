@@ -13,5 +13,6 @@ layout: page
 
 la video produite ne se lit ni dans le navigateur ni avec windows player. vlc marche tres bien.
 quelle configuration (codecs audio et video) marcherait partout ? webm ? marche bien avec vlc par contre.
+Ah ouhais ?
 
 
